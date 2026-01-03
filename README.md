@@ -2,8 +2,8 @@ Discord Chatbot
 
 Overview
 An asynchronous Discord chatbot built using Python and discord.py to automate community interactions and basic moderation tasks. 
-The bot is designed with an event-driven architecture and includes role-based permissions, external API integration, and defensive 
-error handling to ensure stable performance in active servers.
+The bot follows an event-driven architecture and includes role-based permissions, external API integration, 
+and defensive error handling to ensure stable performance in active servers.
 
 Features
 Custom text-based commands
